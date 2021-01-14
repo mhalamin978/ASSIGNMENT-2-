@@ -1,0 +1,30 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px;  
+}
+
+header{
+    background-color: rgba(255, 249, 244, 1);
+}
+.orange{
+    color: orange;
+}
+.blue{
+    color:rgba(54, 57, 88, 1);
+}
+.my-btn{
+    background-color: rgba(61, 79, 243, 1);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 15px;
+    cursor: pointer;
+}
+.my-footer{
+    border-radius: 10px;
+    box-shadow: 20px 20px 40px grey;
+}
+.lower{
+    background-color: grey;
+    border-radius: 15px;
+}
